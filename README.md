@@ -11,7 +11,7 @@ This is a framework-free static website intended for Cloudflare Pages.
 
 ## Before production
 
-- Replace `(https://dry-dream-721a.hendjf98.workers.dev/)` in `sitemap.xml`, `robots.txt`, and the canonical URL in `index.html` with the real domain.
+- Replace https://dry-dream-721a.hendjf98.workers.dev/ in `sitemap.xml`, `robots.txt`, and the canonical URL in `index.html` with the real domain.
 - The consultation form is a client-side prototype. Connect `consult.html` to a Cloudflare Worker/Pages Function or a form provider to actually transmit/store submissions.
 - Review all supplied pet-care guidance with the business's veterinarian/subject-matter experts before publishing as professional advice.
 - The site uses direct Unsplash image URLs. The source pages identified during development marked the selected photographs as free to use under the Unsplash License. Recheck the license/status of any replacement image before publication.
