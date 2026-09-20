@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 190" role="img" aria-labelledby="title desc">
+  <title id="title">Paradigm Pet Professionals logo</title>
+  <desc id="desc">Large capital P in dark blue with light blue and gray shadow layers, followed by Paradigm Pet Professionals.</desc>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M22 154V27h47c43 0 66 23 66 57s-23 57-66 57H53v13H22Zm31-43h17c23 0 34-10 34-27S93 57 70 57H53v54Z" fill="#003B6D"/>
+    <path d="M14 146V19h47c43 0 66 23 66 57s-23 57-66 57H45v13H14Zm31-43h17c23 0 34-10 34-27S85 49 62 49H45v54Z" fill="#6699CC" opacity="0.95"/>
+    <path d="M6 138V11h47c43 0 66 23 66 57s-23 57-66 57H37v13H6Zm31-43h17c23 0 34-10 34-27S77 41 54 41H37v54Z" fill="#BDBDBD" opacity="0.7"/>
+    <path d="M6 138V11h47c43 0 66 23 66 57s-23 57-66 57H37v13H6Z" fill="#003B6D"/>
+  </g>
+  <g fill="#003B6D" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <text x="160" y="80" font-size="48">Paradigm</text>
+    <text x="160" y="132" font-size="48">Pet Professionals</text>
+  </g>
+</svg>
